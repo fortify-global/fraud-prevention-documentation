@@ -7,7 +7,7 @@ To communicate with Fortify Global APIs, you would need ```client_uuid```, ```us
 
 Please email <y@fortify.global> or <vijeet@fortify.global> OR  fill this [form] to receive your credentials.
 
-Once you have the credentials ready, please [verify] your credentials here
+Once you have the credentials ready, please [verify] your credentials.
 
 ## Send us your data
 Please [check here] what is all kind of data you can send up and how each field is making a difference in fraud prevention and increase acceptance rate.
